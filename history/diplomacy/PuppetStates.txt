@@ -1,0 +1,54 @@
+#HRE - Bavaria
+vassal = {
+    first = HRE
+    second = BAV
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#HRE - UBD
+vassal = {
+    first = HRE
+    second = UBD
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Lubeck - oldenburg
+vassal = {
+    first = LUB
+    second = OLD
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Lubeck - Bremen
+vassal = {
+    first = LUB
+    second = BRE
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Lubeck - Hanover
+vassal = {
+    first = LUB
+    second = HAN
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Lubeck - Netherlands
+vassal = {
+    first = LUB
+    second = NET
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+#Hun - galicia
+vassal = {
+    first = HUN
+    second = GLM
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
